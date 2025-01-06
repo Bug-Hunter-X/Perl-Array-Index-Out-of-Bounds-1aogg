@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: accessing an array element using an index that is out of bounds.  The provided code shows the error and a solution using safer array access techniques.
